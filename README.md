@@ -1,4 +1,4 @@
-# Friend-Finder
+# Friend-Match
 
 Instructions:
 1. Click "Go to Survey."
